@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <!--
+    <figure>
+      <div style="background: url(assets/some-image.jpg) no-repeat center center; background-size: cover; height: 200px; display:block;"></div>
+    <figure>
+    -->
+
+    <main class="page-content" aria-label="Content">
+
+      <div class="wrapper">
+        <div class="home">
+
+          {{ content }}
+
+          <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+
+          <ul class="post-list">
+            {% for post in site.posts limit:10 %}
+              <li>
+                <div class="blog-post">
+
+                {% if post.image %}
+                    <a class="preview-img" href="{{ post.url | relative_url }}"><img style="border: 1px solid rgba(0,0,0,.15);" src="{{ post.image }}"></a>
+                {% endif %}
+
+
+                <h3>
+                   <a class="post-link post-title" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                </h3>
+                <div class="post-content">
+
+                {% if post.content contains '<!--break-->' %}
+                <div class="preview">
+
+                    {{ post.content | split:'<!--break-->' | first }}..
+                    <a href="{{ post.url }}">Read more</a>
+
+                </div>
+                {% endif %}
+
+                {{ post.authors | escape }}
+                {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+                </div>
+                </div>
+
+              </li>
+            {% endfor %}
+          </ul>
+
+        </div>
+
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
+
+
+
+
+
