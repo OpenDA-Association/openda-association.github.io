@@ -14,3 +14,33 @@ A model that conforms to the OpenDA standard can use all the tools that are avai
 OpenDA has been designed for high performance. Hence, even large-scale models can use it. Also, OpenDA allows users to optimize the interaction between their model and the data-assimilation/calibration methods. Hence, data-assimilation with OpenDA can be as efficient as with custom-made implementations of data-assimilation methods.
 
 OpenDA is an Open Source project. Contributions are welcome from anyone wishing to participate in the further development of the OpenDA toolset.
+
+### Features of OpenDA
+
+* Data-assimilation methods
+  * Ensemble KF (EnKF)
+  * Ensemble SquareRoot KF (EnSR)
+  * Steady State KF
+  * Particle Filter
+  * 3DVar
+  * DudEnKF (still under research)
+  * DudEnSR (still under research)
+* Parameter estimation (calibration) methods:
+  * Dud
+  * Sparse Dud
+  * Simplex
+  * Powell
+  * Gridded full search
+  * Shuffled Comples Evolution (SCE)
+  * Generalized Likelihood Uncertainty Estimation (GLUE)
+  * (L)BFGS
+  * Conjugate Gradient: Fleetjer-Reeves, Polak-Ribiere, Steepest Descent
+* Uncertainty Analaysis methods
+* GLUE
+* DELSA
+
+Language interfaces
+
+*  C/C++
+*  Java
+*  Fortran77/90

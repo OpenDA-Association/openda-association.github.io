@@ -4,32 +4,35 @@ title: Documentation
 permalink: /documentation
 ---
 
+### Installation
 
-### Features of OpenDA
-- Data-assimilation methods
-- Ensemble KF (EnKF)
-- Ensemble SquareRoot KF (EnSR)
-- Steady State KF
-- Particle Filter
-- 3DVar
-- DudEnKF (still under research)
-- DudEnSR (still under research)
-- Parameter estimation (calibration) methods:
-- Dud
-- Sparse Dud
-- Simplex
-- Powell
-- Gridded full search
-- Shuffled Comples Evolution (SCE)
-- Generalized Likelihood Uncertainty Estimation (GLUE)
-- (L)BFGS
-- Conjugate Gradient: Fleetjer-Reeves, Polak-Ribiere, Steepest Descent
-- Uncertainty Analaysis methods
-- GLUE
-- DELSA
+The official releases and some intermediate code snapshots of OpenDA can be [downloaded from sourceforge](https://sourceforge.net/projects/openda). The binary distributions are the best starting point for new users. Note that the downloads are different for Windows and for Linux and Mac. Instructions for installation can be found in the [OpenDA User Documentation](http://openda.org/docu/openda_2.4/doc/OpenDA_documentation.pdf).
 
+### Initial Steps
 
-### Language interfaces
-- C/C++
-- Java
-- Fortran77/90
+A webinar is available that shows the initial steps with OpenDA:
+
+* [Watch the Webinar Video](http://www.openda.org/videos/presentation.mp4)
+* OpenDA [input files](http://openda.org/course/estuary_2.1.zip) used in the the webinar
+* [Download the slides from the video](http://www.openda.org/course/openda_webbinar.pdf)
+* Versions up to 2.1 require an additional plugin, which can be downloaded here:
+  * Version 2.0: [Download](http://openda.org/course/openda_d3d_plugin_v2.0.zip)
+  * Version 2.1: [Download](http://openda.org/course/openda_d3d_plugin_v2.1.zip)
+
+### OpenDA Course
+
+A course is available to learn much more about OpenDA (note that the course is about version 2.3, new course material for version 2.4 will be available shortly)
+
+* [Download](http://openda.org/course/openda_course_2.3.pdf) course pdf with description and exercises
+* [Download](http://openda.org/course/openda_student_2.3.zip) the input files for the OpenDA course
+
+### Reference Material
+
+* [OpenDA user documentation](http://openda.org/docu/openda_2.4/doc/OpenDA_documentation.pdf)
+* [Description of OpenDA input syntax](http://openda.org/docu/openda_2.4/doc/xmlSchemasHTML/index.html)
+
+### Compilation of OpenDA from source
+
+The development version of OpenDA with all the latest functionality is hosted as a github repository at https://github.com/OpenDA-Association/OpenDA
+
+Alternatively you can download the source for the latest or earlier release at  https://sourceforge.net/projects/openda  Look for the zip-file with "src" in the name.

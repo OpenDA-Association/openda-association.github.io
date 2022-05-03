@@ -4,17 +4,10 @@ title: Downloads
 permalink: /downloads
 ---
 
-Download OpenDA at https://github.com/OpenDA-Association
+### Downloading the OpenDA software
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The official releases and some intermediate code snapshots of OpenDA can be downloaded from sourceforge (https://sourceforge.net/projects/openda). The binary distributions are the best starting point for new users.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The development version of OpenDA with all the latest functionality is hosted as a github repository at https://github.com/OpenDA-Association/OpenDA
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+If you want to contribute to OpenDA, more information can be found in the 'contributing.md' file in the root of the GitHub repository, or you can click [here](https://github.com/OpenDA-Association/OpenDA/blob/master/contributing.md).
