@@ -15,12 +15,6 @@ OpenDA has been designed for high performance. Hence, even large-scale models ca
 
 OpenDA is an Open Source project. Contributions are welcome from anyone wishing to participate in the further development of the OpenDA toolset.
 
-### Summer school 2022
-The 2022 summer school on Data Assimilation and its applications in Oceanography, Hydrology, Risk & Safety and Reservoir Engineering will be held at Cluj Napoca, Romania
-from July 18th to July 29th 2022. This summer school targets primarily students and researchers at an early stage of their career with/without previous experience in data assimilation.
-For more information about the summer school, please click [here](https://data-assimilation.com/).
-
-
 ### Features of OpenDA
 
 * Data-assimilation methods
