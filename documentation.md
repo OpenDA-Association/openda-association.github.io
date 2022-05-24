@@ -6,7 +6,7 @@ permalink: /documentation
 
 ### Installation
 
-The official releases and some intermediate code snapshots of OpenDA can be [downloaded from sourceforge](https://sourceforge.net/projects/openda). The binary distributions are the best starting point for new users. Note that the downloads are different for Windows and for Linux and Mac. Instructions for installation can be found in the [OpenDA User Documentation](http://openda.org/docu/openda_2.4/doc/OpenDA_documentation.pdf).
+The official releases and some intermediate code snapshots of OpenDA can be [downloaded from sourceforge](https://sourceforge.net/projects/openda). The binary distributions are the best starting point for new users. Note that the downloads are different for Windows and for Linux and Mac. Instructions for installation can be found in the [OpenDA User Documentation](https://openda-association.github.io/assets/OpenDA_documentation.pdf).
 
 ### Initial Steps
 
@@ -28,7 +28,7 @@ A course is available to learn much more about OpenDA (note that the course is a
 
 ### Reference Material
 
-* [OpenDA user documentation](http://openda.org/docu/openda_2.4/doc/OpenDA_documentation.pdf)
+* [OpenDA user documentation](https://openda-association.github.io/assets/OpenDA_documentation.pdf)
 * [Description of OpenDA input syntax](http://openda.org/docu/openda_2.4/doc/xmlSchemasHTML/index.html)
 
 ### Compilation of OpenDA from source
