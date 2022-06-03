@@ -3,6 +3,7 @@ layout: page
 title: Documentation
 permalink: /documentation
 ---
+This page contains the original documentation as long as our new page [Documentation wiki](https://openda-association.github.io/documentation_wiki) is still under construction.
 ### Installation
 
 The official releases and some intermediate code snapshots of OpenDA can be [downloaded from sourceforge](https://sourceforge.net/projects/openda). The binary distributions are the best starting point for new users. Note that the downloads are different for Windows and for Linux and Mac. Instructions for installation can be found in the [OpenDA User Documentation](https://openda-association.github.io/assets/OpenDA_documentation.pdf).
