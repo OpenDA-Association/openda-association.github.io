@@ -3,6 +3,11 @@ layout: page
 title: Documentation
 permalink: /documentation
 ---
+### Documentation wiki
+On this page, we are working on a documentation wiki. The original documentation can be found in the next sections below.
+
+* [Getting started with OpenDA](https://openda-association.github.io/wiki/Getting_started.md)
+
 
 ### Installation
 
