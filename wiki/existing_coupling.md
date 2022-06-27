@@ -4,4 +4,5 @@ title: Experienced user of simulation software, existing OpenDA coupling/blackbo
 ---
 This page contains information for experienced users of simulation software (such as DFLOW-FM, SWAN, OpenFOAM, etc.) for which existing OpenDA couplings or blackbox models exist.
 
+* [Introduction to OpenDA](https://openda-association.github.io/wiki/introduction)
 * [Getting started with OpenDA](https://openda-association.github.io/wiki/Getting_started)
