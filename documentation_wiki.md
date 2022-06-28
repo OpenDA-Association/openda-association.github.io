@@ -1,5 +1,5 @@
 ---
-layout: documentation
+layout: page
 title: Documentation wiki
 permalink: /documentation_wiki
 ---
