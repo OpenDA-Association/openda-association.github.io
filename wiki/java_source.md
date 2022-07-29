@@ -11,4 +11,4 @@ The OpenDA software consists of four main modules. The first module is the `core
 In addition to the source code, a 64-bit [Java Development Kit](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html) (at least version 11) should be installed. Linux users can easily download JDK using the package manager, Windows users can download the software [here](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html).
 
 * For developing the OpenDA Java source code using IntelIJ IDEA, click [here](https://openda-association.github.io/wiki/IntelIJ)
-* For developing the OpenDA Java source code without an IDE, click [here](https://openda-association.github.io/wiki/)
+* For developing the OpenDA Java source code without an IDE, click [here](https://openda-association.github.io/wiki/non_IDE)
