@@ -6,7 +6,7 @@ This page contains information about developing the OpenDA Java source code usin
 A free community version can be downloaded from the [JetBrains website](https://www.jetbrains.com/idea/download/).
 By opening the project file`openda.ipr` in the main folder `<path_to_openda_source>`, most of the settings for this project will be set correctly.
 
-In order to use the Java Development Kit in IntelliJ, you can refer to it via `File -> Project Structure -> Platform Settings -> SDKs`.
+In order to use the [Java Development Kit](https://openda-association.github.io/wiki/java_source) in IntelliJ, you can refer to it via `File -> Project Structure -> Platform Settings -> SDKs`.
 
 To build the source code into usable binaries, [Ant](https://en.wikipedia.org/wiki/Apache_Ant) is used which is already present in recent versions of IntelliJ. The Ant sidebar can be opened by heading to `View -> Tool Windows -> Ant`.
 
