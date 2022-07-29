@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Developing without an IDE
+title: Developing the Java source without an IDE
 ---
 On this page, an explanation is given about the development of the Java source without using an IDE.
 

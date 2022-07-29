@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IntelIJ IDEA
+title: Developing the Java source using IntelIJ IDEA
 ---
 This page contains information about developing the OpenDA Java source code using [IntelliJ IDEA](https://en.wikipedia.org/wiki/IntelliJ_IDEA).
 A free community version can be downloaded from the [JetBrains website](https://www.jetbrains.com/idea/download/).
