@@ -6,9 +6,9 @@ On this page, an explanation is given about the development of the Java source w
 
 To build the OpenDA software, a command-line tool called [Ant](https://en.wikipedia.org/wiki/Apache_Ant) is used. Ant is similar to `make`, but written in Java, such that it is portable between different platforms. Linux users can easily install Ant using the package manager. Windows users can download the software [here](http://ant.apache.org/bindownload.cgi). Before installing Ant, make sure that the [Java Development Kit](https://openda-association.github.io/wiki/java_source) is installed.
 
-When Ant is installed, the source code can be built by simply typing `./ci_build.sh` or `ant build` in the main `<path_to_openda_source>` (they do the same).
+When Ant is installed, the source code can be built by simply typing `./ci_build.sh` (Linux) or `ant build` in the main `<path_to_openda_source>` (they do the same).
 
-If one of the XML schema files (`.xsd`) has changed, then it is necessary to run the [Castor framework](https://en.wikipedia.org/wiki/Castor_(framework)) to convert XML files to Java source code. More information about these configuration files can be found in the [introduction to OpenDA](https://openda-association.github.io/wiki/introduction_openda). Castor is run by executing `./ci_build_castor.sh`. After this step, the standard Ant build should again be performed.
+If one of the XML schema files (`.xsd`) has changed, then it is necessary to run the [Castor framework](https://en.wikipedia.org/wiki/Castor_(framework)) to convert XML files to Java source code. More information about these configuration files can be found in the [introduction to OpenDA](https://openda-association.github.io/wiki/introduction_openda). Castor is run by executing `./ci_build_castor.sh` (Linux), or by visiting all directories containing a `build_castor.xml` file and executing `ant -f build_castor.xml`. After this step, the standard Ant build should again be performed.
 
 Upon the execution of the command `ant build`, the following folders are created in the main directory:
 
