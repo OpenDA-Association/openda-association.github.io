@@ -3,7 +3,8 @@ layout: page
 title: Documentation
 permalink: /documentation
 ---
-This page contains the original documentation as long as our new page [Documentation wiki](https://openda-association.github.io/documentation_wiki) is still under construction.
+Please, first have a look at our new page [Documentation wiki](https://openda-association.github.io/documentation_wiki) to get a quick up-to-date overview of OpenDA. The 'old' documentation is still found here as long as the wiki is still under construction. 
+
 ### Installation
 
 The official releases and some intermediate code snapshots of OpenDA can be [downloaded from sourceforge](https://sourceforge.net/projects/openda). The binary distributions are the best starting point for new users. Note that the downloads are different for Windows and for Linux and Mac. Instructions for installation can be found in the [OpenDA User Documentation](https://openda-association.github.io/assets/OpenDA_documentation.pdf).
@@ -13,7 +14,7 @@ The official releases and some intermediate code snapshots of OpenDA can be [dow
 A webinar is available that shows the initial steps with OpenDA:
 
 * [Watch the Webinar Video](http://www.openda.org/videos/presentation.mp4)
-* OpenDA [input files](http://openda.org/course/estuary_2.1.zip) used in the the webinar
+* OpenDA [input files](http://openda.org/course/estuary_2.1.zip) used in the webinar
 * [Download the slides from the video](http://www.openda.org/course/openda_webbinar.pdf)
 * Versions up to 2.1 require an additional plugin, which can be downloaded here:
   * Version 2.0: [Download](http://openda.org/course/openda_d3d_plugin_v2.0.zip)
@@ -33,6 +34,6 @@ A course is available to learn much more about OpenDA (note that the course is a
 
 ### Compilation of OpenDA from source
 
-The development version of OpenDA with all the latest functionality is hosted as a github repository at https://github.com/OpenDA-Association/OpenDA
+The development version of OpenDA with all the latest functionality is hosted as a [GitHub repository](https://github.com/OpenDA-Association/OpenDA).
 
-Alternatively you can download the source for the latest or earlier release at  https://sourceforge.net/projects/openda  Look for the zip-file with "src" in the name.
+Alternatively you can download the source for the latest or earlier release at [SourceForge](https://sourceforge.net/projects/openda). Look for the zip-file with `src` in the name.
