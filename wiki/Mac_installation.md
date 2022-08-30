@@ -1,12 +1,12 @@
 ---
 layout: page
-title: OpenDA installation on a Linux platform
+title: OpenDA installation on a Mac platform
 ---
 
-With the following instructions, the OpenDA software can be installed on a Linux machine: 
+With the following instructions, the OpenDA software can be installed on a Mac machine: 
 
-* Download the [OpenDA binaries](https://github.com/OpenDA-Association/OpenDA/releases). 
-* Download a 64-bit Java 11 installation via the package manager.
+* Download the Linux [OpenDA binaries](https://github.com/OpenDA-Association/OpenDA/releases) (these binaries also work for a Mac). 
+* Download a 64-bit Java 11 installation for Mac [here](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html).
 * Extract the OpenDA distribution file to the desired location on your computer. Note: OpenDA does not work when it is installed on a location with a space in the path (like "`My Documents`").
 * Several system variables need to be set before OpenDA can be run. 
   - The first variable that should be set is `$OPENDADIR`. This variable should point to the `bin` directory of your OpenDA installation: 
@@ -14,7 +14,7 @@ With the following instructions, the OpenDA software can be installed on a Linux
      `export OPENDADIR=<path_to_openda_release>/bin` 
 
     (make sure not adding a `/` after `bin`). By adding this line to the `~/.bashrc` file, this is done automatically each time a shell is launched.
-  - Other local settings are configured using a script in the `bin` directory. There is a default local-settings script that might work out of the box for your system. You can use this script by typing `. $OPENDADIR/settings_local.sh linux` (mind the `.`). If that does not work, then the following steps should be executed: 
+  - Other local settings are configured using a script in the `bin` directory. There is a default local-settings script that might work out of the box for your system. You can use this script by typing `. $OPENDADIR/settings_local.sh mac` (mind the `.`). If that does not work, then the following steps should be executed: 
     - Check your hostname, using the `hostname` command;
     - Copy the file `$OPENDADIR/settings_local_base.sh` to a new file named `settings_local_<hostname>.sh` in the same directory.
     - Then edit that file: enable the relevant lines and change the values of the environment variables.
