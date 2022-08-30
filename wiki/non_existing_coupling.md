@@ -6,3 +6,5 @@ This page contains information for experienced users of simulation software, for
 
 * [Introduction to OpenDA](https://openda-association.github.io/wiki/introduction_openda)
 * [Getting started with OpenDA](https://openda-association.github.io/wiki/Getting_started)
+
+If it is required to extend the Java code, it is useful to check the page on [developing the Java source](https://openda-association.github.io/wiki/java_source).
