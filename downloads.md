@@ -3,11 +3,8 @@ layout: page
 title: Downloads
 permalink: /downloads
 ---
+The official OpenDA releases can be downloaded from the release page at [GitHub](https://github.com/OpenDA-Association/OpenDA/releases). The corresponding documentation can be found [here](https://openda.org/documentation_wiki). 
 
-### Downloading the OpenDA software
+The development version of OpenDA with all the latest functionality can be found in the [GitHub repository](https://github.com/OpenDA-Association/OpenDA).
 
-The official releases and some intermediate code snapshots of OpenDA can be downloaded from sourceforge (https://sourceforge.net/projects/openda). The binary distributions are the best starting point for new users.
-
-The development version of OpenDA with all the latest functionality is hosted as a github repository at https://github.com/OpenDA-Association/OpenDA
-
-If you want to contribute to OpenDA, more information can be found in the 'contributing.md' file in the root of the GitHub repository, or you can click [here](https://github.com/OpenDA-Association/OpenDA/blob/master/contributing.md).
+If you want to contribute to OpenDA, more information can be found in the `contributing.md`, click [here](https://github.com/OpenDA-Association/OpenDA/blob/master/contributing.md).
