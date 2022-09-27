@@ -25,7 +25,7 @@ This section contains miscellaneous publications and presentations related to Op
 ### Dissertations and internship reports: 
 * [Improving OpenDA's blackbox wrapper for Sobek](https://openda.org/assets/Reports/verslagStageDanielMulder.pdf), D. Mulder
 * [Combining field observations and hydrodynamic model in urban drainage](https://openda.org/assets/Reports/MasterThesis_JohanPost.pdf), J. Post
-* [Data Assimilation in OpenFOAM using OpenDA](https://openda.org/assets/Reports/OpenDA-OpenFOAM(TR12-3-v1.1.pdf)), J.H. Seubers
+* [Data Assimilation in OpenFOAM using OpenDA](https://openda.org/assets/Reports/OpenDA-OpenFOAM(TR12-3-v1.1).pdf), J.H. Seubers
 
 ### Presentations
 * Joint Numerical Sea Modelling Group (JONSMOD) 2010 Conference: 
