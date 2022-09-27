@@ -14,9 +14,19 @@ OpenDA has been designed for high performance. Hence, even large-scale models ca
 
 OpenDA is an Open Source project. Contributions are welcome from anyone wishing to participate in the further development of the OpenDA toolset.
 
+In summary, OpenDA:
+* Provides researchers with a tool for experimentation with data-assimilation/calibration methods without the need for extensive programming;
+* Enables a quick implementation of data-assimilation and calibration for arbitrary numerical models;
+* Can be used without the need to learn and implement many different data assimilation and calibration algorithms/methods;
+* Has been successfully used in many applications and publications, for example: 
+  * [eWaterCycle](https://research-software-directory.org/projects/ewatercycle)
+  * [eWaterCycleII](https://research-software-directory.org/projects/ewatercycle-ii)
+  * OpenFOAM
+  * Clever Monitoring
+
 ### Features of OpenDA
 
-* Data-assimilation methods
+* Data-assimilation methods:
   * Ensemble KF (EnKF)
   * Ensemble SquareRoot KF (EnSR)
   * Steady State KF
@@ -38,8 +48,7 @@ OpenDA is an Open Source project. Contributions are welcome from anyone wishing 
 * GLUE
 * DELSA
 
-Language interfaces
-
+Language interfaces:
 *  C/C++
 *  Java
 *  Fortran77/90
