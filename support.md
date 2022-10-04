@@ -3,16 +3,29 @@ layout: page
 title: Support
 permalink: /support
 ---
+There are various ways to obtain support while applying OpenDA to your own use case. 
+The first step is usually to take a look at our [documentation](https://www.openda.org/documentation_wiki) to see whether your questions are answered. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Getting help
+OpenDA is open source: it is developed, extended and supported by its users. The OpenDA association stimulates the further development of a user community through [GitHub](https://github.com/OpenDA-Association/OpenDA/issues) and by organizing user meetings. So, your professional peers are probably the first place you go to if you need help. Please, search the issues on GitHub first because chances are that your problem was encountered and solved before. If this is not the case, you can add another issue and hope that someone will answer it. The user community has been relatively small so far, so we don't know whether it will support a growing user group. But it's worth the try.
+Please, do not use the general e-mail address of OpenDA (info@openda.org) for questions about the software itself or its use. This is because any question that you may have can be relevant to others as well, so it is best posted publicly on GitHub. The info@openda.org address is reserved for communicating with the OpenDA association about issues that transcend the software itself and its use. If you use it for non-intended purposes, we will kindly refer you to GitHub.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### OpenDA courses
+We have some [course material](https://www.openda.org/documentation) available on the website. That is simply the material that was used in previous courses. It gives you the slides, but obviously not the talk that goes with it. So, perhaps it is not enough for you.
+OpenDA courses are organized as needs arise. So, if you are interested in taking a course, just contact the OpenDA association through its general mail address info@openda.org and tell us what kind of course you require. We wait until a sufficient number of people (some 10 people) have shown interest and then organize the course that matches the needs of those people. The costs are determined by the costs we make (we don't make any serious profit) and depend on the number of participants and the number of days. Courses are held at the location that is most convenient for the majority of the participants.
+We also supply in-company training. The OpenDA association has access to a list of experienced OpenDA users that are quite willing to give a course. Please contact the OpenDA association through its general mail address info@openda.org and tell us what you require. Then, we can prepare a detailed quotation and discuss it with you. In-company training, like the open-subscription courses, is given on a cost-only basis (although we welcome any extra you have available).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+### Frequently-Asked Questions (FAQ)
+1. Why use OpenDA when I can build it all myself?
+Well, you can save yourself a lot of trouble using OpenDA. First of all, it gives you ready-made, well-tested and efficient implementations of many data-assimilation and calibration methods. Others have done a lot of work to implement, debug and optimize them, so why not use them? Secondly, using OpenDA, you can experiment with different types of filters or parameter-estimation methods at no extra cost. This will allow you to find the best method for your application. And by the way, using OpenDA does not require more alterations to your model code than a custom-made implementation of data assimilation. You will not save yourself time or work by building it all yourself. The only thing is that you will have to learn to use OpenDA. But that investment will pay itself back in no time.
+If you're still not convinced, perhaps you should consider using only the building blocks from OpenDA. That way, you can still do your own implementation but do it a lot quicker.
+2. Why yet another data-assimilation framework?
+We are not the only ones to build a data-assimilation framework. And we are also not the first. But we do think that we are the most ambitious in terms of scope. Most other frameworks have a limited number of data-assimilation methods whereas OpenDA is explicitly designed to support a wide variety of data-assimilation and calibration methods. This is why the framework has a modular architecture, allowing the reuse of all kinds of convenient software components. Another advantage of OpenDA over others is its permissive license, the LGPL. Basically, this tells you that you can do anything you like with the software as long as you don't blame us for the consequences.
+3. How can a framework like OpenDA support variational methods?
+True, variational methods usually require some sort of adjoint and OpenDA can not supply adjoints for your specific model. But it can do all the rest. So, if you supply the adjoint, we give you the tooling for its operational use. Furthermore, there are methods with similar functionality that do not require adjoints and OpenDA can support those.
+4. How mature is it?
+OpenDA is pretty mature. Some major government organizations, institutes and commercial companies rely on OpenDA for their data assimilation. It is applied in fields like geomechanical engineering, water management and air-quality monitoring. It has been developed by professional scientific software engineers and there is commercial support available for those who need it. So: yes, OpenDA supplies operational-quality software. And in the end, it is open source. So if interest in OpenDA should somehow discontinue, then you can still use and extend the software for your own purposes.
+5. Do I need to reprogram my software?
+No, not necessarily. OpenDA supplies tools to work with closed-source models, i.e. models that you just cannot reprogram. But usually, it is more efficient if you add some subroutines to your model software to make a direct connection to OpenDA. This set of extra subroutines (the model interface) is not very extensive. And once you have done that, you can use all the tools from OpenDA.
+6. Does it cost much performance?
+No, not necessarily. We have done experiments comparing an OpenDA RRSQRT Kalman filter implementation for a large-scale model with a custom-build implementation. There was a slight degradation in performance, but it was no more than a few percent. And by tweaking the coupling between the model and OpenDA, or the filter implementation, perhaps that few percent could be reduced even further. This is no surprise because OpenDA was designed for high performance. Obviously, getting this high performance from OpenDA does require some careful programming. But others in the community (or the commercial helpdesk) are probably willing to help you.
