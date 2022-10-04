@@ -12,9 +12,6 @@ A webinar is available that shows the initial steps with OpenDA:
 * [Watch the webinar video](https://openda.org/assets/presentation.mp4)
 * [OpenDA input files](https://openda.org/assets/estuary_2.1.zip) used in the webinar
 * [Download the slides from the video](https://openda.org/assets/openda_webinar.pdf)
-* Versions up to 2.1 require an additional plugin, which can be downloaded here:
-  * Version 2.0: [Download](https://openda.org/assets/openda_d3d_plugin_v2.0.zip)
-  * Version 2.1: [Download](https://openda.org/assets/openda_d3d_plugin_v2.1.zip)
 
 ### OpenDA Course
 
