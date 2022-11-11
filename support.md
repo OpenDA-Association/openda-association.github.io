@@ -4,7 +4,7 @@ title: Support
 permalink: /support
 ---
 There are various ways to obtain support while applying OpenDA to your own use case. 
-The first step is usually to take a look at our [documentation](https://www.openda.org/documentation) to see whether your questions are answered. 
+The first step is usually to take a look at our [documentation](https://openda.org/documentation) to see whether your questions are answered. 
 
 ### Getting help
 OpenDA is open source: it is developed, extended and supported by its users. The OpenDA association stimulates the further development of a user community through [GitHub](https://github.com/OpenDA-Association/OpenDA/issues) and by organizing user meetings. So, your professional peers are probably the first place you go to if you need help. Please, search the issues on GitHub first because chances are that your problem was encountered and solved before. If this is not the case, you can add another issue and hope that someone will answer it. The user community has been relatively small so far, so we don't know whether it will support a growing user group. But it's worth the try.
@@ -18,7 +18,7 @@ To report a bug, please open an issue on [GitHub](https://github.com/OpenDA-Asso
 OpenDA is designed as a framework in which everybody can quickly develop data-assimilation methods that are applicable to any model that complies with the OpenDA model interface. If you have fixed a bug, or developed some new data-assimilation method, a wrapper for a particular commonly-used open-source model, or an observer for a particular kind of data that may be of interest to others, you can add your work to the repository via a pull request on GitHub.
 
 ### OpenDA courses
-We have some [course material](https://www.openda.org/documentation) available on the website. That is simply the material that was used in previous courses. It gives you the slides, but obviously not the talk that goes with it. So, perhaps it is not enough for you.
+We have some [course material](https://openda.org/documentation) available on the website. That is simply the material that was used in previous courses. It gives you the slides, but obviously not the talk that goes with it. So, perhaps it is not enough for you.
 OpenDA courses are organized as needs arise. So, if you are interested in taking a course, just contact the OpenDA association through its general email address info@openda.org and tell us what kind of course you require. We wait until a sufficient number of people (some 10 people) have shown interest and then organize the course that matches the needs of those people. The costs depend on the number of participants and the number of days. Courses are held at the location that is most convenient for the majority of the participants.
 We also supply in-company training. The OpenDA association has access to a list of experienced OpenDA users that are quite willing to give a course. Please contact the OpenDA association through its general email address info@openda.org and tell us what you require. Then, we can prepare a detailed quotation and discuss it with you. In-company training, like the open-subscription courses, is given on a cost-only basis (although we welcome any extra you have available).
 
