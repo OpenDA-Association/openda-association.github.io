@@ -3,7 +3,7 @@ layout: page
 title: Downloads
 permalink: /downloads
 ---
-The official OpenDA releases can be downloaded from the release page at [GitHub](https://github.com/OpenDA-Association/OpenDA/releases). The corresponding documentation can be found [here](https://openda.org/documentation_wiki). 
+The official OpenDA releases can be downloaded from the release page at [GitHub](https://github.com/OpenDA-Association/OpenDA/releases). The corresponding documentation can be found [here](https://openda.org/documentation). 
 
 The development version of OpenDA with all the latest functionality can be found in the [GitHub repository](https://github.com/OpenDA-Association/OpenDA).
 

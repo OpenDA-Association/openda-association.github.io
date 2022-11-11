@@ -4,7 +4,7 @@ title: Support
 permalink: /support
 ---
 There are various ways to obtain support while applying OpenDA to your own use case. 
-The first step is usually to take a look at our [documentation](https://www.openda.org/documentation_wiki) to see whether your questions are answered. 
+The first step is usually to take a look at our [documentation](https://www.openda.org/documentation) to see whether your questions are answered. 
 
 ### Getting help
 OpenDA is open source: it is developed, extended and supported by its users. The OpenDA association stimulates the further development of a user community through [GitHub](https://github.com/OpenDA-Association/OpenDA/issues) and by organizing user meetings. So, your professional peers are probably the first place you go to if you need help. Please, search the issues on GitHub first because chances are that your problem was encountered and solved before. If this is not the case, you can add another issue and hope that someone will answer it. The user community has been relatively small so far, so we don't know whether it will support a growing user group. But it's worth the try.
