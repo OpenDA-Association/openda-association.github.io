@@ -38,7 +38,6 @@ plugins:
 #Pages in the top menu, in order
 header_pages:
  - downloads.md
- - documentation_wiki.md
  - documentation.md
  - publications.md
  - support.md

@@ -3,7 +3,9 @@ layout: page
 title: Documentation
 permalink: /documentation
 ---
-Please, first have a look at our new page [Documentation wiki](https://openda.org/documentation_wiki) to get a quick up-to-date overview of OpenDA. The 'old' documentation is still found here as long as the wiki is still under construction. 
+For documentation, we refer to [docs.openda.org](https://docs.openda.org). 
+
+As long as we are still working on the new documentation, the old (and sometimes outdated) information is still found below. 
 
 ### Initial Steps
 
