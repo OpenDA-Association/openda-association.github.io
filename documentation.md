@@ -14,7 +14,7 @@ A course is available to learn much more about OpenDA:
 * [Course pdf with description and exercises](https://openda.org/assets/openda_course.pdf) 
 * [Input files for the OpenDA course](https://openda.org/assets/openda_student.zip) 
 
-### Initial Steps
+### Webinar
 
 A webinar is available that shows the initial steps with OpenDA:
 
