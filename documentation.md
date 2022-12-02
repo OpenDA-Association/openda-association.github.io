@@ -5,14 +5,14 @@ permalink: /documentation
 ---
 For documentation, we refer to [docs.openda.org](https://docs.openda.org). 
 
-As long as we are still working on the new documentation, the old (and sometimes outdated) information is still found below. 
-
 ### OpenDA Course
 
 A course is available to learn much more about OpenDA:
 
 * [Course pdf with description and exercises](https://openda.org/assets/openda_course.pdf) 
 * [Input files for the OpenDA course](https://openda.org/assets/openda_student.zip) 
+
+As long as we are still working on the new documentation, the old (and sometimes outdated) information is still found below.  
 
 ### Webinar
 
