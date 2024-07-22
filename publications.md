@@ -23,9 +23,10 @@ This section contains miscellaneous publications and presentations related to Op
 * [Forecasting simulations of indoor environment using data assimilation via an Ensemble Kalman Filter](https://www.sciencedirect.com/science/article/abs/pii/S0360132313000887), C.-C. Lin and L. Wang
 
 ### Dissertations and internship reports: 
-* [Improving OpenDA's blackbox wrapper for Sobek](https://openda.org/assets/Reports/verslagStageDanielMulder.pdf), D. Mulder
-* [Combining field observations and hydrodynamic model in urban drainage](https://openda.org/assets/Reports/MasterThesis_JohanPost.pdf), J. Post
-* [Data Assimilation in OpenFOAM using OpenDA](https://openda.org/assets/Reports/OpenDA-OpenFOAM(TR12-3-v1.1).pdf), J.H. Seubers
+* [Improving Global Tide and Storm Surge Forecasts with Parameter Estimation](https://repository.tudelft.nl/record/uuid:5f26edc8-f50c-4302-8142-4cf78ff73902), X. Wang (2022)
+* [Data Assimilation in OpenFOAM using OpenDA](https://openda.org/assets/Reports/OpenDA-OpenFOAM(TR12-3-v1.1).pdf), J.H. Seubers (2013)
+* [Improving OpenDA's blackbox wrapper for Sobek](https://openda.org/assets/Reports/verslagStageDanielMulder.pdf), D. Mulder (2012)
+* [Combining field observations and hydrodynamic model in urban drainage](https://openda.org/assets/Reports/MasterThesis_JohanPost.pdf), J. Post (2012)
 
 ### Presentations
 * Joint Numerical Sea Modelling Group (JONSMOD) 2010 Conference: 
