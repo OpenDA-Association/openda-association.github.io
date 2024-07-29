@@ -20,7 +20,21 @@ This section contains miscellaneous publications and presentations related to Op
 * [Data assimilation for OpenFOAM](https://openda.org/assets/Case_studies/Flyer-OpenDA-OpenFOAM.pdf)
 
 ### Papers:
-* [Forecasting simulations of indoor environment using data assimilation via an Ensemble Kalman Filter](https://www.sciencedirect.com/science/article/abs/pii/S0360132313000887), C.-C. Lin and L. Wang
+* [Data assimilation of in situ and satellite remote sensing data to 3D hydrodynamic lake models: a case study using Delft3D-FLOW v4.03 and OpenDA v2.4](https://gmd.copernicus.org/articles/13/1267/2020/),
+  T. Baracchini, P.Y. Chu, J. Šukys, G. Lieberherr, S. Wunderle, A. Wüest, and D. Bouffard,
+  Geoscientific Model Development, 13(3), 1267-1284 (2020)
+* [A Kalman Filter Approach to Realize the Lowest Astronomical Tide Surface](https://www.tandfonline.com/doi/full/10.1080/01490419.2017.1391900), 
+  D.C. Slobbe, J. Sumihar, T. Frederikse, M. Verlaan, R. Klees, F. Zijl, H.H. Farahani, and R. Broekman, Marine Geodesy, 41(1), 44-67 (2018)
+* [OpenDA-NEMO framework for ocean data assimilation](https://link.springer.com/article/10.1007/s10236-016-0945-z), 
+  N. van Velzen, M.U. Altaf, and M. Verlaan, Ocean dynamics, 66, 691-702 (2016)
+* [Application of data assimilation for improved operational water level forecasting on the northwest European shelf and North Sea](https://link.springer.com/article/10.1007/s10236-015-0898-7), 
+  F. Zijl, J. Sumihar, and M. Verlaan,
+  Ocean Dynamics, 65, 1699-1716 (2015)
+* [Data assimilation framework: Linking an open data assimilation library (OpenDA) to a widely adopted model interface (OpenMI)](https://www.sciencedirect.com/science/article/abs/pii/S1364815214000590), 
+  M.E. Ridler, N. van Velzen, S. Hummel, I. Sandholt, A.K. Falk, A. Heemink, and H. Madsen, Environmental Modelling & Software, 57, 76-89 (2014)
+* [Forecasting simulations of indoor environment using data assimilation via an Ensemble Kalman Filter](https://www.sciencedirect.com/science/article/abs/pii/S0360132313000887), 
+  C.-C. Lin and L. Wang, 
+  Building and Environment, 64, 169-176 (2013)
 
 ### Dissertations and internship reports: 
 * [Improving Global Tide and Storm Surge Forecasts with Parameter Estimation](https://repository.tudelft.nl/record/uuid:5f26edc8-f50c-4302-8142-4cf78ff73902), X. Wang (2022)
