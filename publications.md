@@ -20,6 +20,10 @@ This section contains miscellaneous publications and presentations related to Op
 * [Data assimilation for OpenFOAM](https://openda.org/assets/Case_studies/Flyer-OpenDA-OpenFOAM.pdf)
 
 ### Papers:
+* [A Wave Data Assimilation System for the North Sea Based on Ensemble Kalman Filtering and the Potential of Satellite Altimetry](https://www.sciencedirect.com/science/article/pii/S1463500325000897), C.W.E. de Korte, M. Verlaan, and A.W. Heemink, Ocean Modelling, 197, 102586 (2025)
+* [Data-assimilation-based parameter estimation of bathymetry and bottom friction coefficient to improve coastal accuracyin a global tide model](https://os.copernicus.org/articles/18/881/2022/), X. Wang, M. Verlaan, J. Veenstra, and H.X. Lin, Ocean Science, 18(3), 881–904 (2022)
+* [Parameter estimation for a global tide and surge model with a memory-efficient order reduction approach](https://www.sciencedirect.com/science/article/pii/S1463500322000518?utm_source=chatgpt.com), X. Wang, M. Verlaan, M.I. Apecechea, and H.X. Lin, Ocean Modelling, 173, 102011 (2022)
+* [Computation-Efficient Parameter Estimation for a High-Resolution Global Tide and Surge Model](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JC016917), X. Wang, M. Verlaan, M.I. Apecechea, and H.X. Lin, Journal of Geophysical Research: Oceans, 126 (3), e2020JC016917 (2021)
 * [Data assimilation of in situ and satellite remote sensing data to 3D hydrodynamic lake models: a case study using Delft3D-FLOW v4.03 and OpenDA v2.4](https://gmd.copernicus.org/articles/13/1267/2020/),
   T. Baracchini, P.Y. Chu, J. Šukys, G. Lieberherr, S. Wunderle, A. Wüest, and D. Bouffard,
   Geoscientific Model Development, 13(3), 1267-1284 (2020)
